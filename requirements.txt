@@ -1,0 +1,4 @@
+# pip-installable libraries 
+pip install pytest
+pip install pillow
+pip install requests
